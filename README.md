@@ -10,7 +10,7 @@ Aβ and ptau variables were log-transformed and standardized. BMI and systolic b
 Dataset: https://adni.loni.usc.edu/data-samples/adni-data/
 
 Cox Hazard Model:
-With multiple imputations, log(Aβ), log(ptau), average real variability of systolic blood pressure, age, gender, and apoe4 allele presence produced significant parameter estimates, but not interaction effects. With the non-imputed data, the interaction effect between log(Aβ) and averal real variability of systolic blood pressure produced significant parameter estimate in addition to the same variables from multiple imputatiions but not age and the presence of apoe4 allele. With KM curves, the proportionality of the hazard model was confirmed.
+With multiple imputations, log(Aβ), log(ptau), average real variability of systolic blood pressure, age, gender, and apoe4 allele presence produced significant parameter estimates, but not interaction effects. With the non-imputed data, the interaction effect between log(Aβ) and averge real variability of systolic blood pressure produced significant parameter estimate in addition to the same variables from multiple imputatiions but not age and the presence of apoe4 allele. With KM curves, the proportionality of the hazard model was confirmed.
 
 Conclusion:
 The interaction effect of abeta42 and average real variability of systolic blood pressure appeared with data without multiple imputations. Because of the high amount of observations with missing values for abeta42, performing multiple imputations increased uncertainty in the analysis. The result from the cox hazard model on the completed dataset should not be the primary inference. However, it suggests that the interaction effect is possibly significant on time to AD conversion. 
